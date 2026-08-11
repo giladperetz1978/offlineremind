@@ -1,0 +1,11 @@
+{
+  "name": "OfflineRemind",
+  "short_name": "Remind",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f0e7",
+  "theme_color": "#17211d",
+  "description": "תזכורות ותמלול מקומי ללא ענן"
+}
